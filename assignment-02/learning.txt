@@ -1,0 +1,5 @@
+1. I learned how to check Git status using git status.
+2. I learned how to stage files using git add.
+3. I learned how to save changes using git commit.
+4. I learned how to upload commits to GitHub using git push.
+5. I learned how to modify a file and create a new commit.
